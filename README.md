@@ -121,7 +121,7 @@ Based on the analysis, the following recommendations can be considered:
 - Evaluate campaign quality instead of relying only on click volume.
 - Continue monitoring campaign ROI across different audience segments before increasing marketing spend.
 
-## Skills USED
+## Skills Used
 
 ### Microsoft Excel
 
@@ -156,6 +156,5 @@ Based on the analysis, the following recommendations can be considered:
 ### Analytical Skills
 
 - Exploratory Data Analysis (EDA)
-- Marketing Campaign Analysis
 - Business Insight Generation
-- Data-Driven Decision Making
+- Data Driven Decision Making
