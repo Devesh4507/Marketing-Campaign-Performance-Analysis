@@ -25,7 +25,7 @@ The analysis focuses on:
 
 ## Dataset
 
-Source: Kaggle
+Source: Kaggle {https://www.kaggle.com/datasets/sshriya08/multi-brand-marketing-campaign-performance-dataset}
 
 The original dataset consisted of three separate Excel files representing marketing campaigns for:
 
