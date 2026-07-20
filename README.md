@@ -1,2 +1,161 @@
 # Marketing-Campaign-Performance-Analysis
 Marketing Campaign Analysis using Excel (Power Query), SQL and Business Insights.
+## Project Overview
+
+Marketing teams collect a large amount of campaign data, but the real value comes from analysing that data to understand campaign performance and support business decisions.
+
+In this project, three separate campaign datasets were combined into a single master dataset using Power Query. After preparing and cleaning the data in Excel, SQL was used to answer business questions related to campaign performance, ROI, conversions, revenue and acquisition cost.
+
+The final output includes business observations and recommendations based on the analysis.
+
+## Business Objective
+
+The objective of this project was to analyse marketing campaign performance and identify patterns that could help improve future campaigns.
+
+The analysis focuses on:
+
+- Campaign Performance
+- Revenue
+- ROI
+- Conversion Rate
+- Acquisition Cost
+- Customer Targeting
+- Campaign Duration
+- Brand Comparison
+
+## Dataset
+
+Source: Kaggle
+
+The original dataset consisted of three separate Excel files representing marketing campaigns for:
+
+- Nykaa
+- Purplle
+- Tira
+
+These files were combined into one master dataset using Microsoft Excel Power Query before performing further analysis.
+
+## Tools Used
+
+### Microsoft Excel
+
+- Power Query
+- Pivot Tables
+- Pivot Charts
+- Data Cleaning
+- Data Preparation
+- CTR Calculation
+- Conversion Rate Calculation
+
+### MySQL
+
+- Data Import
+- SQL Queries
+- Business Analysis
+
+## Excel Work
+
+Microsoft Excel was used for preparing and understanding the data before importing it into MySQL.
+
+The Excel work included:
+
+- Power Query for combining datasets
+- Adding Brand column
+- Data preparation
+- CTR calculation
+- Conversion Rate calculation
+- Pivot Tables
+- Pivot Charts
+- Initial exploratory data analysis
+
+## SQL Analysis
+
+The prepared dataset was imported into MySQL for solving business problems related to marketing campaign performance.
+
+The project answers business questions related to:
+
+- Campaign Performance
+- Revenue
+- ROI
+- Acquisition Cost
+- Conversion Rate
+- Campaign Duration
+- Target Audience
+- Brand Comparison
+- Platform Comparison
+- Budget Optimisation
+
+## Business Questions Solved
+
+The following business questions were explored using SQL:
+
+1. Which brand generated the highest total ROI?
+2. Which campaign type delivered the highest conversions?
+3. Which target audience generated the lowest ROI across different marketing channels?
+4. Which platform (Instagram or Facebook) performed better for the Youth audience?
+5. How much of the total acquisition cost was spent on College Students and Working Women?
+6. Is there a relationship between campaign duration and average ROI?
+7. How did the top Paid Ads campaigns perform for Nykaa, Purplle and Tira based on clicks and conversion rates?
+8. What percentage of total conversions came from Influencer campaigns?
+9. How did Email and SEO campaign revenue change over time?
+10. Which target audience generated the lowest conversions, and how much revenue did they contribute?
+
+## Key Findings
+
+- Email campaigns generated the highest number of conversions among all campaign types.
+- Nearly 20% of total conversions came from Influencer campaigns.
+- Facebook campaigns performed better than Instagram for the Youth audience in terms of ROI.
+- Campaign duration showed very little impact on average ROI.
+- College Students recorded the lowest conversions but still contributed around 20% of the total revenue.
+- Working Women and College Students together accounted for approximately 40% of the total acquisition cost.
+- Email and SEO campaign revenue declined towards the end of the analysed time period.
+- High-click Paid Ads campaigns did not always result in high conversion rates.
+
+## Business Recommendations
+
+Based on the analysis, the following recommendations can be considered:
+
+- Continue investing in Email campaigns due to their strong conversion performance.
+- Review acquisition spending for audience groups with lower returns.
+- Investigate the decline in Email and SEO revenue during the later months.
+- Evaluate campaign quality instead of relying only on click volume.
+- Continue monitoring campaign ROI across different audience segments before increasing marketing spend.
+
+## Skills USED
+
+### Microsoft Excel
+
+- Power Query
+- Data Preparation
+- Data Cleaning
+- Data Transformation
+- Pivot Tables
+- Pivot Charts
+- CTR Calculation
+- Conversion Rate Calculation
+
+### SQL
+
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- LIMIT
+- Aggregate Functions (`SUM()`, `AVG()`)
+- `ROUND()`
+- `CASE WHEN`
+- `HAVING`
+- Scalar Subqueries
+- Window Functions
+- `ROW_NUMBER()`
+- `PARTITION BY`
+- `NTILE()`
+- Date Functions (`YEAR()`, `MONTH()`, `DATE_FORMAT()`)
+- CTEs
+
+### Analytical Skills
+
+- Exploratory Data Analysis (EDA)
+- Marketing Campaign Analysis
+- Business Insight Generation
+- Data-Driven Decision Making
