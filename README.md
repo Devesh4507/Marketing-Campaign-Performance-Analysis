@@ -2,8 +2,6 @@
 Marketing Campaign Analysis using Excel (Power Query), SQL and Business Insights.
 ## Project Overview
 
-Marketing teams collect a large amount of campaign data, but the real value comes from analysing that data to understand campaign performance and support business decisions.
-
 In this project, three separate campaign datasets were combined into a single master dataset using Power Query. After preparing and cleaning the data in Excel, SQL was used to answer business questions related to campaign performance, ROI, conversions, revenue and acquisition cost.
 
 The final output includes business observations and recommendations based on the analysis.
